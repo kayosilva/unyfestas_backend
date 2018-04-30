@@ -1,3 +1,9 @@
+# Configuração do projeto
+- Instalar as dependências do projeto: composer install
+- Copiar o dotenv: cp .env.example .env
+- Adicionar a chave no dotenv 'APP_KEY=y3DLxnEczGWGN4CKUdk1S5GbMumU2dfH'
+- Rodar projeto: php -S localhost:8000 -t public
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
