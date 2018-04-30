@@ -31,12 +31,12 @@ class Calculate
         }
 
         return [
-            'Salgados' => $salgados,
-            'Doces' => $doces,
-            'Carne' => $carnes,
-            'Refrigerantes' => $refrigerante,
-            'Cerveja' => $cerveja,
-            'Whisky' => $whisky
+            'salgados' => $salgados,
+            'doces' => $doces,
+            'carne' => $carnes,
+            'refrigerantes' => $refrigerante,
+            'cerveja' => $cerveja,
+            'whisky' => $whisky
         ];
     }
 }
